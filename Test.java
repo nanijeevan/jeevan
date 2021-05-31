@@ -6,6 +6,8 @@ public class Test {
     public static void display()
     {
         System.out.println("display");
+        System.out.println("display11;
+        System.out.println("display222
     }
     
     public static void display1()
